@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ussd</string>
+
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="btn_title">USE USSD</string>
+    <string name="txt_title">Test For Use Ussd</string>
+</resources>
