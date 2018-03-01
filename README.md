@@ -7,20 +7,12 @@ From Android 6.0 (Marshmallow) onwards , For Dangerous Permissions We need The R
 in This Test I Used CALL_PHONE Permission and It is Of this category ... So I Mange it...
 
 
-
-![screenshot_20180228-221308](https://user-images.githubusercontent.com/26750131/36806675-cf40e390-1c8e-11e8-8b6c-225bc6a2c5a0.png)
-
-
 # in " Uri.parse("tel:" + "*1") " , ** You can use your own code **
-
 
 
  and Just Click On Simple Button And USSD CODE RUNNING...
 
 
-
-
-![screenshot_20180228-221332](https://user-images.githubusercontent.com/26750131/36806733-fcdf1114-1c8e-11e8-9d9e-9344a0cd6379.png)
-
+![20180301_223119](https://user-images.githubusercontent.com/26750131/36863985-42c311b0-1d59-11e8-8c6c-33198558b6de.gif)
 
 
