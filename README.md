@@ -11,10 +11,10 @@ Unstructured Supplementary Service Data (USSD) is a protocol used by GSM cellula
 
 This Repository is Test For Ussd Code.
 From Android 6.0 (Marshmallow) onwards , For Dangerous Permissions We need The Runtime Permissions. 
-in This Test I Used CALL_PHONE Permission and It is Of this category ... So I Mange it...
+in This Test I Used ```CALL_PHONE``` Permission and It is Of this category ... So I Mange it...
 
 
-# in " Uri.parse("tel:" + "*1") " , ** You can use your own code **
+ in " Uri.parse("tel:" + "*1") " , ** You can use your own code **
 
 
  and Just Click On Simple Button And USSD CODE RUNNING...
