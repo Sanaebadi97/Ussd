@@ -1,6 +1,8 @@
 #  Ussd
 
 
+# Demo
+
 
 ![20180301_223119](https://user-images.githubusercontent.com/26750131/36863985-42c311b0-1d59-11e8-8c6c-33198558b6de.gif)
 
@@ -17,7 +19,7 @@ in This Test I Used ```CALL_PHONE``` Permission and It is Of this category ... S
  in " Uri.parse("tel:" + "*1") " , ** You can use your own code **
 
 
- and Just Click On Simple Button And USSD CODE RUNNING...
+ and Just Click On Simple Button And USSD CODE RUNNING... happy code !
 
 
 
