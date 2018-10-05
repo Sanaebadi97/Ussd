@@ -16,7 +16,7 @@ From Android 6.0 (Marshmallow) onwards , For Dangerous Permissions We need The R
 in This Test I Used ```CALL_PHONE``` Permission and It is Of this category ... So I Mange it...
 
 
- in " Uri.parse("tel:" + "*1") " , ** You can use your own code **
+ in " Uri.parse("tel:" + "*1") " , ( You can use your own code )
 
 
  and Just Click On Simple Button And USSD CODE RUNNING... happy code !
