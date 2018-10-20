@@ -9,7 +9,7 @@
 
 
 Test Ussd Code 
-Unstructured Supplementary Service Data (USSD) is a protocol used by GSM cellular telephones to communicate with the service provider’s computers. USSD can be used for WAP browsing, prepaid callback service, mobile-money services, location-based content services, menu-based information services, and as part of configuring the phone on the network.
+Unstructured Supplementary Service Data ***(USSD)*** is a protocol used by GSM cellular telephones to communicate with the service provider’s computers. USSD can be used for WAP browsing, prepaid callback service, mobile-money services, location-based content services, menu-based information services, and as part of configuring the phone on the network.
 
 This Repository is Test For Ussd Code.
 From Android 6.0 (Marshmallow) onwards , For Dangerous Permissions We need The Runtime Permissions. 
