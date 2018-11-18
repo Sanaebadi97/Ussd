@@ -39,7 +39,7 @@
             android:text="@string/btn_title"
             android:textColor="#fff"
             android:textSize="20sp"
-            android:textStyle="bold"
+            
             />
 
     </LinearLayout>
