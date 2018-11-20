@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
     setContentView(R.layout.activity_main);
 
 
-    btn_ussd = (Button) findViewById(R.id.btn_ussd);
+    btn_ussd = (Button) 
 
     btn_ussd.setOnClickListener(new View.OnClickListener() {
       @SuppressLint("MissingPermission")
