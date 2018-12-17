@@ -1,7 +1,6 @@
 #  Ussd
 
 
-# Demo
 
 
 ![20180301_223119](https://user-images.githubusercontent.com/26750131/36863985-42c311b0-1d59-11e8-8c6c-33198558b6de.gif)
