@@ -19,7 +19,7 @@ in This Test I Used ```CALL_PHONE``` Permission and It is Of this category ... S
  in ``` Uri.parse("tel:" + "*1")``` , ( You can use your own code )
 
 
- and Just Click On Simple Button And USSD CODE RUNNING... happy code !
+ and Just Click On Simple Button And USSD CODE RUNNING...my sime card is from [mci](https://www.mci.ir/) happy code !
 
 
 
